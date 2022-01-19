@@ -1,9 +1,3 @@
----
-title: Cours php
-tags: support, php, good practice
-robots: noindex, nofollow
-author: Giuseppe Militello
----
 
 ![logo php](./asset/php_8_released.png)
 # Comment mettre en place une navigation dynamique par PHP
